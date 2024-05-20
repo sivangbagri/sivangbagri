@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.dribbble.com/userupload/10951018/file/original-d53f68cdc20daa2a2f31037fed7375e2.gif)](linkedin.com/in/shivang-bagri)
+[![MasterHead](https://cdn.dribbble.com/userupload/11515823/file/original-91e188fc6cc5a4299b5e6e9a231ce0f1.gif)](linkedin.com/in/shivang-bagri)
 
 <h1 align="center">Hi 👋, I'm Shivang</h1>
 <h3 align="center">A aspiring full stack web developer from India</h3>

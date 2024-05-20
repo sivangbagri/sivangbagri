@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.dribbble.com/userupload/11315047/file/original-c6bc347c50a0a7040e248fda2f464a9c.gif)](linkedin.com/in/shivang-bagri)
+[![MasterHead](https://cdn.dribbble.com/userupload/10951018/file/original-d53f68cdc20daa2a2f31037fed7375e2.gif)](linkedin.com/in/shivang-bagri)
 
 <h1 align="center">Hi 👋, I'm Shivang</h1>
 <h3 align="center">A aspiring full stack web developer from India</h3>
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Frontend Web developement**
 
-- 💬 Ask me about **React.js , NEXT.js , Django , Tech & Product**
+- 💬 Ask me about **Open Source , React.js , NEXT.js , Django , Tech & Product**
 
 - 📫 How to reach me **sivangbagri@gmail.com**
 

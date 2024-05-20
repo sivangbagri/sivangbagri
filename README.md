@@ -1,13 +1,15 @@
+[![MasterHead](https://cdn.dribbble.com/userupload/11315047/file/original-c6bc347c50a0a7040e248fda2f464a9c.gif)](linkedin.com/in/shivang-bagri)
+
 <h1 align="center">Hi 👋, I'm Shivang</h1>
-<h3 align="center">A aspiring full stack developer from India</h3>
+<h3 align="center">A aspiring full stack web developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sivangbagri" alt="sivangbagri" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/hivang26_" target="blank"><img src="https://img.shields.io/twitter/follow/hivang26_?logo=twitter&style=for-the-badge" alt="hivang26_" /></a> </p>
 
-- 🌱 I’m currently learning **React.js , Next.js**
+- 🌱 I’m currently learning **Frontend Web developement**
 
-- 💬 Ask me about **Frontend Developement , Backend Developement**
+- 💬 Ask me about **React.js , NEXT.js , Django , Tech & Product**
 
 - 📫 How to reach me **sivangbagri@gmail.com**
 
@@ -15,7 +17,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/hivang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="hivang" height="30" width="40" /></a>
 <a href="https://twitter.com/hivang26_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hivang26_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shivang-bagri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shivang-bagri/" height="30" width="40" /></a>
 </p>

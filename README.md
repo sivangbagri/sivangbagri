@@ -1,5 +1,8 @@
-[![MasterHead](https://cdn.dribbble.com/userupload/11515823/file/original-91e188fc6cc5a4299b5e6e9a231ce0f1.gif)](linkedin.com/in/shivang-bagri)
-
+<div align="center">
+  <a href="https://linkedin.com/in/shivang-bagri">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Dark_inverted_insertion_sorting.gif" alt="MasterHead">
+  </a>
+</div>
 <h1 align="center">Hi 👋, I'm Shivang</h1>
 <h3 align="center">A aspiring full stack web developer from India</h3>
 

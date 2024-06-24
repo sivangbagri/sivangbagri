@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **sivangbagri@gmail.com**
 
-- ⚡ Fun fact **I think I can figure out anyhting**
+- ⚡ Fun fact **I think I can figure out anything**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
